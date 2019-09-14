@@ -36,7 +36,7 @@ and:
 
 ```gradle
 dependencies {
-    implementation 'com.github.BRIANNNNNNN:RadioRealButton:2.1.3'
+    implementation 'com.github.ALXKAY:RadioRealButton:2.1.3'
 }
 ```
 
